@@ -1,4 +1,6 @@
-# Setup Environment
+# Practice1 - classify spam email
+
+##  Setup Environment
 
 0. **Install Prerequisites**:
    - Ensure that Python and Jupyter Notebook are installed on your system. You can refer to the following links for installation guidance:
@@ -10,7 +12,6 @@
      ```bash
      python3 -m pip install -r requirements.txt
      ```
-# Practice1
 
 ## Repository Contents
 Folder path `practice_1`

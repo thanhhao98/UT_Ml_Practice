@@ -1,4 +1,6 @@
-# Setup Environment
+# Practice2 - prediction price
+
+## Setup Environment
 
 0. **Install Prerequisites**:
    - Ensure that Python and Jupyter Notebook are installed on your system. You can refer to the following links for installation guidance:
@@ -11,7 +13,6 @@
      python3 -m pip install -r requirements.txt
      ```
 
-# Practice2
 
 ## Repository Contents
 
